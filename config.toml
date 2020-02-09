@@ -23,3 +23,9 @@ description = "Hypnotherapy Healthcare"
 font = "Raleway"
 profilePic = "img/logo.png"
 showBorder = true
+[[menu.footer]]
+name = "Rapid Transformation Therapist"
+url = "#"
+[[menu.footer]]
+name = "Certified Hypnotherapist"
+url = "#"
