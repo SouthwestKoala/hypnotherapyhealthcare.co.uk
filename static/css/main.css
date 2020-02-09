@@ -48,6 +48,10 @@ main {
     height: 50vmin;
 }
 
+.text-justify {
+    padding: 0 10vmin;
+}
+
 /*apply accent colour to links*/
 
 a:link, a:visited {
