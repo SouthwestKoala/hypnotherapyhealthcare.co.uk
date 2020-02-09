@@ -1,5 +1,7 @@
 +++
+date = ""
 draft = true
+title = "How it all works"
 
 +++
 # The science behind hypnosis
