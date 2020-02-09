@@ -1,6 +1,8 @@
 +++
 date = 2020-02-01T00:00:00Z
 title = "What is hypnotherapy?"
+[menu.main]
+weight = 3
 
 +++
 # What is hypnotherapy?

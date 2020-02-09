@@ -5,8 +5,7 @@ weight: "50"
 type: page
 menu:
   main:
-    name: About
-    weight: 2
+    weight: 4
 
 ---
 # My story

@@ -4,13 +4,13 @@ languageCode = "en-gb"
 theme = "minimal"
 title = "Coming Soon"
 [[menu.icon]]
-name = "twitter"
-url = "https://twitter.com/gibbons_rebekah/"
-weight = 2
-[[menu.icon]]
 name = "envelope-o"
 url = "mailto:rebekah@hypnotherapyhealthcare.co.uk"
 weight = 1
+[[menu.icon]]
+name = "twitter"
+url = "https://twitter.com/gibbons_rebekah/"
+weight = 2
 [[menu.main]]
 name = "Home"
 url = "/"

@@ -1,6 +1,8 @@
 +++
 date = 2020-02-01T00:00:00Z
 title = "What is on offer?"
+[menu.main]
+weight = 2
 
 +++
 # What is on offer?
