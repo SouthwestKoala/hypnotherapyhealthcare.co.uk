@@ -10,7 +10,7 @@
             {{ if .Site.Menus.footer }}
                 <ul class="nav navbar-nav navbar-right">
                     {{ range sort .Site.Menus.footer }}
-                        <li class="navbar-icon"><img src="{{ .URL }}"></img></li>
+                        <li class="navbar-icon"><img src="{{ .URL }}" class="logo"></img></li>
                     {{ end }}
                 </ul>
             {{ end }}
