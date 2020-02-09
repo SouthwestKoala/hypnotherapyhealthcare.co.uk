@@ -25,7 +25,7 @@ profilePic = "img/logo.png"
 showBorder = true
 [[menu.footer]]
 name = "Rapid Transformation Therapist"
-url = "#"
+url = "/uploads/RTT_Therapist_Rounded_Logo.png"
 [[menu.footer]]
 name = "Certified Hypnotherapist"
-url = "#"
+url = "/uploads/RTT_CHYP_Logo.png"
