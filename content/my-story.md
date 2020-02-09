@@ -3,6 +3,10 @@ title: My story
 date: 2019-12-07
 weight: "50"
 type: page
+menu:
+  main:
+    name: About
+    weight: 2
 
 ---
 # My story
