@@ -1,7 +1,21 @@
 ---
 label: Page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/how-it-all-works.md
 - content/what-is-hypnotherapy.md
