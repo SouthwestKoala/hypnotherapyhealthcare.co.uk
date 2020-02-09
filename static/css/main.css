@@ -107,6 +107,11 @@ img {
     max-width: 100%;
 }
 
+img.logo {
+    height: 6em;
+    width: 6em;
+}
+
 q, blockquote {
 	quotes: "“" "”" "‘" "’";
 }
