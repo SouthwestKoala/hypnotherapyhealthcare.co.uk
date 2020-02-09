@@ -1,5 +1,7 @@
 +++
+date = ""
 draft = true
+title = "What is hypnotherapy?"
 
 +++
 # What is hypnotherapy?
