@@ -1,5 +1,7 @@
 +++
+date = ""
 draft = true
+title = "What is on offer?"
 
 +++
 # What is on offer?
