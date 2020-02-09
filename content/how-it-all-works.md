@@ -1,6 +1,5 @@
 +++
-date = ""
-draft = true
+date = 2020-02-01T00:00:00Z
 title = "How it all works"
 
 +++
