@@ -10,25 +10,26 @@
 
         <h2>Healthcare</h2>
 
+        <br>
+
         {{ with .Content }}
             <div class="homepage-content text-justify">
                 {{ . }}
             </div>
         {{ end }}
+
+        <!-- related posts with the same tags -->
+        {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "post") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+
+        {{ if $related }}
+
+            <h4 class="page-header">Related</h4>
+
+            {{ range $related }} {{ partial "list-item" . }} {{ end }}
+
+        {{ end }}
+
     </div>
-
-    <br> <div class="text-justify">{{ .Content }}</div>
-
-    <!-- related posts with the same tags -->
-    {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "post") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
-
-    {{ if $related }}
-
-        <h4 class="page-header">Related</h4>
-
-        {{ range $related }} {{ partial "list-item" . }} {{ end }}
-
-    {{ end }}
 
 </main>
 
