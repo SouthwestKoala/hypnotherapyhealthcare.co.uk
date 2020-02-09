@@ -1,15 +1,24 @@
         <footer>
+
             <p class="text-muted">
-                Dr Rebekah Gibbons MBBCh MRCGP DRCOG DFFP C.Hyp RTT MNCP CNCH Regisitered<br>
+                Dr Rebekah Gibbons MBBCh MRCGP DRCOG DFFP C.Hyp RTT MNCP CNCH Registered<br>
                 Rapid Transformational Therapy Practitioner<br>
                 Certified Hypnotherapist<br>
-                National Council of Psychotherapists
+                National Council of Psychotherapists                
             </p>
+
+            {{ if .Site.Menus.footer }}
+                <ul class="nav navbar-nav navbar-right">
+                    {{ range sort .Site.Menus.footer }}
+                        <li class="navbar-icon"><img src="{{ .URL }}"></img></li>
+                    {{ end }}
+                </ul>
+            {{ end }}
 
             <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}</p>
 
         </footer>
-       
+
     </body>
 
 </html>
