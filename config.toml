@@ -3,6 +3,14 @@ googleAnalytics = "UA-35915992-3"
 languageCode = "en-gb"
 theme = "minimal"
 title = "Coming Soon"
+[[menu.footer]]
+name = "Rapid Transformation Therapist"
+url = "/uploads/RTT_Therapist_Rounded_Logo.png"
+weight = 2
+[[menu.footer]]
+name = "Certified Hypnotherapist"
+url = "/uploads/RTT_CHYP_Logo.png"
+weight = 1
 [[menu.icon]]
 name = "envelope-o"
 url = "mailto:rebekah@hypnotherapyhealthcare.co.uk"
@@ -23,9 +31,3 @@ description = "Hypnotherapy Healthcare"
 font = "Raleway"
 profilePic = "img/logo.png"
 showBorder = true
-[[menu.footer]]
-name = "Rapid Transformation Therapist"
-url = "/uploads/RTT_Therapist_Rounded_Logo.png"
-[[menu.footer]]
-name = "Certified Hypnotherapist"
-url = "/uploads/RTT_CHYP_Logo.png"

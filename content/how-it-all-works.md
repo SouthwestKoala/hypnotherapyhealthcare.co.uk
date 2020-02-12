@@ -1,8 +1,7 @@
 +++
 date = 2020-02-01T00:00:00Z
+draft = true
 title = "How it all works"
-[menu.main]
-weight = 3
 
 +++
 # The science behind hypnosis
