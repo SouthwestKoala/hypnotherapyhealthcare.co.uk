@@ -15,3 +15,13 @@ fields:
     required: false
   label: Location
   description: Client location
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Testimonial
+  description: Client testimonial
