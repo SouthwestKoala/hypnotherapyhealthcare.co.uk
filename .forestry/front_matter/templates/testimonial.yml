@@ -26,5 +26,9 @@ fields:
       format: markdown
   label: Testimonial
   description: Client testimonial
+- name: problem
+  type: tag_list
+  default: []
+  label: Problem
 pages:
 - content/Testimonials/20191208.md
