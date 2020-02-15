@@ -26,3 +26,5 @@ fields:
       format: markdown
   label: Testimonial
   description: Client testimonial
+pages:
+- content/Testimonials/20191208.md
