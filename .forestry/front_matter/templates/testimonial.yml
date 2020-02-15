@@ -1,4 +1,11 @@
 ---
 label: Testimonial
 hide_body: true
-fields: []
+fields:
+- name: initials
+  type: text
+  config:
+    required: true
+    min: '1'
+  label: Initial(s)
+  description: Client initials
