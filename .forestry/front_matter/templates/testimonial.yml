@@ -9,3 +9,9 @@ fields:
     min: '1'
   label: Initial(s)
   description: Client initials
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
+  description: Client location
