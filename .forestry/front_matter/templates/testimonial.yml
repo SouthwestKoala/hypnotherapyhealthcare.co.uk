@@ -1,6 +1,7 @@
 ---
 label: Testimonial
 hide_body: true
+display_field: body
 fields:
 - name: initials
   type: text
