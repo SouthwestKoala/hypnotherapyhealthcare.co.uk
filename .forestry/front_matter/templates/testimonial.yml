@@ -31,5 +31,4 @@ fields:
   default: []
   label: Problem
 pages:
-- content/Testimonials/20191112.md
-- content/Testimonials/20191208.md
+- content/20200117.md
