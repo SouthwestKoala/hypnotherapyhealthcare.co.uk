@@ -1,8 +1,8 @@
 +++
 date = 2020-02-01T00:00:00Z
-title = "What is hypnotherapy?"
-
+title = "Hypnotherapy Healthcare"
 +++
+
 Have you ever felt like you have the weight of the world on your shoulders? Do you feel anxious? Is your energy low? Are you struggling with a medical condition? Is anger or aggression something you are trying to manage but just don’t quite know how to shake it off? Do you struggle with low self-esteem and lack confidence? Is there something holding you back?
 
 Whatever your concerns are, whether big or small, hypnotherapy can help.
