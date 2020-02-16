@@ -1,5 +1,6 @@
 +++
 date = 2020-02-01T00:00:00Z
+draft = true
 title = "Rules of the mind"
 
 +++

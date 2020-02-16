@@ -23,3 +23,5 @@ description = "Hypnotherapy Healthcare"
 font = "Raleway"
 profilePic = "img/logo.png"
 showBorder = true
+[taxonomies]
+problem = "problems"
