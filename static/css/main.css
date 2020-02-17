@@ -113,7 +113,7 @@ img {
 
 img.logo {
     height: 6em;
-    width: 6em;
+    /*width: 6em;*/
 }
 
 q, blockquote {

@@ -41,7 +41,7 @@ url = "/img/RTT_CHYP_Logo.png"
 weight = 2
 [[menu.footer]]
 name = "National Council of Psychotherapists"
-url = "/img/RTT_CHYP_Logo.png"
+url = "/img/NCP_Logo.png"
 weight = 3
 [[menu.footer]]
 name = "Complementary & Natural Healthcare Council"
