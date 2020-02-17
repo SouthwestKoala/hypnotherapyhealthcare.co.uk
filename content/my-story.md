@@ -3,7 +3,7 @@ date = 2020-02-01T00:00:00Z
 title = "My Story"
 +++
 
-![](/img/REG01.png)
+![](/img/REG01.jpg)
 
 ### My story
 
