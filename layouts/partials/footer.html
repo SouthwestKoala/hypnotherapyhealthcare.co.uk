@@ -6,15 +6,13 @@
                 National Council of Psychotherapists                
             </p>
 
-            <p>
-                {{ if .Site.Menus.footer }}
-                    <ul class="nav navbar-nav navbar-right">
-                        {{ range sort .Site.Menus.footer }}
-                            <li class="navbar-icon"><img src="{{ .URL }}" class="logo"></img></li>
-                        {{ end }}
-                    </ul>
-                {{ end }}
-            </p>
+            {{ if .Site.Menus.footer }}
+                <ul>
+                    {{ range sort .Site.Menus.footer }}
+                        <li class="navbar-icon"><img src="{{ .URL }}" class="logo"></img></li>
+                    {{ end }}
+                </ul>
+            {{ end }}
 
             <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}</p>
 
