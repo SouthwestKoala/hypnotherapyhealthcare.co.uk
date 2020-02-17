@@ -23,6 +23,6 @@ Personally I have suffered with anxiety, self-doubt, and postnatal depression. T
 
 I no longer doubt myself. I have taken huge leaps of faith and changed the way I work. I know everything is possible for me, and I’m excited to be able to truly facilitate healing in others. Our minds and bodies are incredible. Neuroplasticity / reprogramming your brain is a scientific fact, and it can be harnessed during RTT to make rapid and life changing transformations.
 
-You can choose to free yourself from anything that is holding you back. Through RTT you can choose to rewire your brain, letting go of anything that is unhelpful to you, creating new ways positive ways of thinking allowing you to fulfil your true potential. 
+You can choose to free yourself from anything that is holding you back. Through RTT you can choose to rewire your brain, letting go of anything that is unhelpful to you, creating new positive ways of thinking allowing you to fulfil your true potential. 
 
 Will you choose to take that step?
