@@ -15,6 +15,22 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "How it Works"
+url = "/how-it-works"
+weight = 2
+[[menu.main]]
+name = "What is on Offer"
+url = "/what-is-on-offer"
+weight = 3
+[[menu.main]]
+name = "My Story"
+url = "/my-story"
+weight = 4
+[[menu.main]]
+name = "Testimonials"
+url = "/testimonials"
+weight = 5
 [params]
 accent = "#00A499"
 author = "Dr Rebekah Gibbons"

@@ -1,6 +1,6 @@
 +++
 date = 2020-02-01T00:00:00Z
-title = "My story"
+title = "My Story"
 +++
 
 ### My story

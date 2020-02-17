@@ -3,7 +3,7 @@ date = 2020-02-01T00:00:00Z
 title = "Testimonials"
 +++
 
-# Testimonials
+### Testimonials
 
 > Hypnotherapy is relaxing and reassuring. Dr Gibbons maintains a very professional manner throughout the session, she makes you feel calm and at ease. The consultation lasts for about an hour and a half, however the time flies by and when finished it’s amazing to realise how much time has passed so comfortably. Since my consultation I have noticed a huge increase in my energy and a lift in my mood. I enjoy listening to the meditation everyday and can feel the benefits with immediate effect. I have struggled with stomach issues linked to anxiety for years and since the consultation I have not experienced any problems which would usually leave me crippled with pain and unable to move.
 >
