@@ -11,11 +11,11 @@
             </p>
 
             {{ if .Site.Menus.footer }}
-                <ul>
+                <p>
                     {{ range sort .Site.Menus.footer }}
-                        <li class="navbar-icon"><img src="{{ .URL }}" class="logo"></img></li>
+                        <img src="{{ .URL }}" class="logo" alt="{{ .Name }}"></img>
                     {{ end }}
-                </ul>
+                </p>
             {{ end }}
 
             <p class="copyright text-muted">{{ .Site.Params.copyright | default "&copy; All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)" | markdownify }}</p>
