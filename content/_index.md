@@ -45,5 +45,3 @@ RTT can be helpful in treating the following
 It is also helpful in building self-assurance, for example with public speaking, perfomance anxiety, interview skills, or exams.
 
 This list is not exhaustive and if in any doubt whether this form of therapy will be useful to yourself please do contact me. When conventional medicine hasn’t been able to help or when a non-pharmacological solution is wanted RTT has proven to be an extremely useful therapy. It is an effective treatment for many conditions as described above and the National Institute of Clinical Excellence (NICE) have recognised hypnotherapy as a treatment option for Irritable Bowel Syndrome (IBS). I personally have seen its benefits in many different illnesses and I hope to conduct further research into this.
-
-![](/img/RTT_Therapist_Logo.png)
