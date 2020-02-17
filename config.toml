@@ -15,8 +15,6 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = 
 [params]
 accent = "#00A499"
 author = "Dr Rebekah Gibbons"
