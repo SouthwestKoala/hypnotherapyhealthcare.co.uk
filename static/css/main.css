@@ -113,7 +113,8 @@ img.logo {
 }
 
 q, blockquote {
-	quotes: "“" "”" "‘" "’";
+    quotes: "“" "”" "‘" "’";
+    font-size: 1em;
 }
 
 q:before {
