@@ -32,9 +32,21 @@ name = "Testimonials"
 url = "/testimonials"
 weight = 5
 [[menu.footer]]
-url = "/img/RTT_CHYP_Logo.png"
-[[menu.footer]]
+name = "RTT Therapist"
 url = "/img/RTT_Therapist_Rounded_Logo.png"
+weight = 1
+[[menu.footer]]
+name = "Certified Hypnotherapist"
+url = "/img/RTT_CHYP_Logo.png"
+weight = 2
+[[menu.footer]]
+name = "National Council of Psychotherapists"
+url = "/img/RTT_CHYP_Logo.png"
+weight = 3
+[[menu.footer]]
+name = "Complementary & Natural Healthcare Council"
+url = "/img/CNCH_Logo.jpg"
+weight = 4
 [params]
 accent = "#00A499"
 author = "Dr Rebekah Gibbons"
