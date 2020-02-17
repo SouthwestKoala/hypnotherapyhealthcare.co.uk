@@ -54,6 +54,7 @@ main {
 
 h3 {
     color: var(--accent) !important;
+    text-align: left;
 }
 
 /*apply accent colour to links*/
