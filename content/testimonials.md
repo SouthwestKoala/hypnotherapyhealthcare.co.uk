@@ -11,21 +11,25 @@ title = "Testimonials"
 >
 > -- <cite>BC, Midlands</cite>
 
+<br />
 
 > I've suffered with tinnitus and poor hearing for years, and was sceptical that Rapid Transformation Therapy could help, but it really did. Dr Gibbons was reassuring throughout the session, and helped me--under hypnosis--come to an understanding of why I had specifically developed tinnitus. This was really surprising, but in that moment I knew that I could choose not have tinnitus any longer. The ringing has gone, and my hearing has improved markedly.
 >
 > -- <cite>MG, Cornwall</cite>
 
+<br />
 
 > Rebekah is a natural therapist, whose personal confidence with the process made me feel relaxed and confident that it would work. And it did! I have not had a migraine for 3 weeks. Thank you for changing my life. I am happy to recommend Rebekah as an exceptional RTT therapist to all my friends.
 >
 > -- <cite>KK, UK</cite>
 
+<br />
 
 > I saw Rebekah for a long term issue I had of suffering with IBS.  I knew she was the right person to speak to as her manner is very calm and reassuring. Following on from the session within a week I noticed my symptoms improve.  It was strange to think that could happen so quickly.  I don't get much bloating or pain and although I do get a flare up now and again it's so mild in comparison to what it was like before. I know the more I address underlying emotional issues the more my health is improving.  I highly recommend her.
 >
 > -- <cite>SR, London</cite>
 
+<br />
 
 > Dr. Rebekah Gibbons successfully permanently achieved in 2 hours using Rapid Transformational Therapy what many of hours of psychotherapy over 17 months did not achieve; knowledge, truth, clarity, understanding, acceptance, resolution, dismissal and eradication of the problem issues, calmness, stability, confidence, integration, wholeness and happiness.
 >
@@ -36,4 +40,3 @@ title = "Testimonials"
 > I am so phenomenally grateful to Rebekah for this wonderful triple healing in one 2-hour session. Rebekah’s combined knowledge, skills and caring nature make her an excellent and highly successful RTT Therapist
 >
 > -- <cite>AM, UK<cite>
-
