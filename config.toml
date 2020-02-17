@@ -31,6 +31,10 @@ weight = 4
 name = "Testimonials"
 url = "/testimonials"
 weight = 5
+[[menu.footer]]
+url = "/img/RTT_CHYP_Logo.png"
+[[menu.footer]]
+url = "/img/RTT_Therapist_Rounded_Logo.png"
 [params]
 accent = "#00A499"
 author = "Dr Rebekah Gibbons"

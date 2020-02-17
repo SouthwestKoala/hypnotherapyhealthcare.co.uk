@@ -54,4 +54,4 @@ Hypnotherapy sends your nervous system into a beautifully relaxed state, turning
 
 As part of the RTT session you will receive a bespoke transformation recording which is personal to you. I recommend listening to the recording for at least 21 days. It is designed with care to help implant and nourish your new self-beliefs in your mind by speaking directly to you and your subconscious mind. By listening to this recording repeatedly, you will embed this therapeutic positive change within you.
 
-![](/uploads/RTT_Therapist_Logo.png)
+![](/img/RTT_Therapist_Logo.png)

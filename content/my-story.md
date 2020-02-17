@@ -3,6 +3,8 @@ date = 2020-02-01T00:00:00Z
 title = "My Story"
 +++
 
+![](/img/REG01.png)
+
 ### My story
 
 I am a medical doctor, a Rapid Transformational Therapist, and a Hypnotherapist. I continue to work as a GP in the NHS in North Cornwall in the Southwest of England. I trained as a medical doctor at the University of Wales College of Medicine, in Cardiff, and went on to train as a GP in the Southwest of England, initially being based in Plymouth. During my GP training I had my family of 3 children, and once training was completed I moved to the North coast of Cornwall. For 10 years I was based as a GP working in Boscastle and Tintagel. I have been trained in Rapid Transformational Therapy (RTT) and Hypnotherapy by Marisa Peer, the hypnotherapist who developed RTT. I have recently decided to work more flexibly as a GP in different practices in North Cornwall, whilst providing RTT and Hypnotherapy privately at present. My goal is to develop further research and provide evidence about RTT as an extremely effective treatment option for many illnesses that conventional medicine cannot treat. I would like to see RTT used as an alternative to medication when appropriate. It would be wonderful to offer RTT on the NHS in the future, so watch this space.
