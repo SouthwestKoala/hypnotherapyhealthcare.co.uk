@@ -4,7 +4,7 @@
             </p>
 
             <p class="text-muted">
-                Dr Rebekah Gibbons MBBCh MRCGP DRCOG DFFP C.Hyp RTT MNCP CNCH Registered<br>
+                Dr Rebekah Gibbons <small>MBBCh MRCGP DRCOG DFFP C.Hyp RTT MNCP CNCH Registered</small><br>
                 Rapid Transformational Therapy Practitioner<br>
                 Certified Hypnotherapist<br>
                 National Council of Psychotherapists                
@@ -13,7 +13,7 @@
             {{ if .Site.Menus.footer }}
                 <p>
                     {{ range sort .Site.Menus.footer }}
-                        <img src="{{ .URL }}" class="logo" alt="{{ .Name }}"></img>
+                        <img src="{{ .URL }}" class="logo" title="{{ .Name }}" alt="{{ .Name }}"></img>
                     {{ end }}
                 </p>
             {{ end }}
