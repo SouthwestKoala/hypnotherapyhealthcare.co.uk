@@ -3,7 +3,7 @@ date = 2020-02-01T00:00:00Z
 title = "What is on offer?"
 +++
 
-# What is on offer?
+### What is on offer?
 
 * A 30-minute consultation prior to the Hypnotherapy
 * A Rapid Tranformational Therapy (RTT) session which can take up to 2 hours

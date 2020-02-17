@@ -3,7 +3,7 @@ date = 2020-02-01T00:00:00Z
 title = "My story"
 +++
 
-# My story
+### My story
 
 I am a medical doctor, a Rapid Transformational Therapist, and a Hypnotherapist. I continue to work as a GP in the NHS in North Cornwall in the Southwest of England. I trained as a medical doctor at the University of Wales College of Medicine, in Cardiff, and went on to train as a GP in the Southwest of England, initially being based in Plymouth. During my GP training I had my family of 3 children, and once training was completed I moved to the North coast of Cornwall. For 10 years I was based as a GP working in Boscastle and Tintagel. I have been trained in Rapid Transformational Therapy (RTT) and Hypnotherapy by Marisa Peer, the hypnotherapist who developed RTT. I have recently decided to work more flexibly as a GP in different practices in North Cornwall, whilst providing RTT and Hypnotherapy privately at present. My goal is to develop further research and provide evidence about RTT as an extremely effective treatment option for many illnesses that conventional medicine cannot treat. I would like to see RTT used as an alternative to medication when appropriate. It would be wonderful to offer RTT on the NHS in the future, so watch this space.
 
@@ -15,7 +15,7 @@ I subsequently had the fortunate opportunity to meet a GP at a training event wh
 
 This experience in itself helped transform the way I thought about health and well-being, and since then I have trained as a Hypnotherapist and a Rapid Transformational Therapist myself. I have now seen how effective it is in treating many issues and illnesses, and I am thrilled to be able offer this as an effective treatment option to get you out of the rut you may find yourself in, providing the tools and resources you need to understand and be free from your issues and problems.
 
-## My personal experience
+### My personal experience
 
 Personally I have suffered with anxiety, self-doubt, and postnatal depression. This has had a huge impact on myself and my family. With the help of RTT I now realise that my anxiety, lack of self-esteem and postnatal depression occurred due to thoughts and limiting beliefs I had developed at a young age, that surfaced later in life. I struggled with anxiety and lack of confidence for most of my life, and used to think it was a personality trait of mine. I suffered with severe postnatal depression after my 3rd child, which was triggered by increasing anxiety during the pregnancy. From the outside it looked as though I had everything but I remember at the time thinking I would never get better. I felt very alone. Medication did help with postnatal depression, but anxiety lingered. I persevered and through yoga and meditation I made positive progress. However, it wasn’t until I came across hypnotherapy that I completely understood where the anxiety had originated from, and that this wasn’t a personality trait. I hadn’t been born with this anxiety, it was something I had started to believe at a young age due to events that I had experienced. This understanding gave me the power to transform these unhelpful limiting beliefs and I now the feel full of positive expectation. Through hypnosis I have come to understand that my previous lack of self-belief started when I was very young. Through RTT I have now changed the wrongly-held deep belief, and have incredible increasing self-belief. RTT has enabled me to understand the root cause of my anxiety and re-frame it, helping me to find freedom.
 

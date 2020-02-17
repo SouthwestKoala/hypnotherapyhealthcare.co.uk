@@ -11,13 +11,13 @@ My name is Rebekah, I am a medical doctor and I have been trained in a particula
 
 RTT is particularly beneficial as it incorporates elements of Neurolinguistic Programming (NLP), Cognitive Behaviour Therapy (CBT) and other forms of psychotherapy whilst in a hypnotherapeutic state.
 
-## Beliefs are shaped by experiences
+### Beliefs are shaped by experiences
 
 Before the age of 7 we have established beliefs based upon human experiences. During childhood we had certain experiences that have impacted the way we now perceive ourselves and the world around us. We might not be aware of these subconscious beliefs as an adult, but we may realise that something is holding us back or limiting us.
 
 RTT empowers you to rewrite these limiting beliefs. It gives you the understanding of how and why these beliefs were born, allowing you to make sense of them. RTT gives you the power to create beliefs that are helpful, relevant and purposeful for you by accessing your subconscious (your emotional) mind. RTT allows you to identify the root cause and reason for your issues rapidly allowing you to understand and then free yourself from any self-limiting belief. Often only one session is needed to provide permanent solutions. This transformation allows you to freely live life without the restrictions of a challenging perspective and help rid yourself of negative thought patterns that may have been holding you back.
 
-## What can Rapid Transformational Therapy treat?
+### What can Rapid Transformational Therapy treat?
 
 RTT can be helpful in treating the following
 
@@ -46,7 +46,7 @@ It is also helpful in building self-assurance, for example with public speaking,
 
 This list is not exhaustive and if in any doubt whether this form of therapy will be useful to yourself please do contact me. When conventional medicine hasn’t been able to help or when a non-pharmacological solution is wanted RTT has proven to be an extremely useful therapy. It is an effective treatment for many conditions as described above and the National Institute of Clinical Excellence (NICE) have recognised hypnotherapy as a treatment option for Irritable Bowel Syndrome (IBS). I personally have seen its benefits in many different illnesses and I hope to conduct further research into this.
 
-## What to expect during a RTT consultation?
+### What to expect during a RTT consultation?
 
 During RTT you are in complete control and have command of your actions. You are not asleep and are fully aware of what is happening. As a RTT therapist I am only there to facilitate the therapy, you are the one in control and are being empowered to treat yourself.
 
