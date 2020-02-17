@@ -1,8 +1,0 @@
-<div class="item">
-
-    <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
-    {{ range .Params.tags }}
-    <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a>
-    {{ end }}
-
-</div>

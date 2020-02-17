@@ -1,9 +1,8 @@
 +++
 date = 2020-02-01T00:00:00Z
-draft = true
 title = "How it all works"
-
 +++
+
 # The science behind hypnosis
 
 ## Fight or flight
@@ -26,7 +25,13 @@ RTT provides you with the perfect opportunity to transform unhelpful beliefs by 
 
 Our brain is an electrical organ. It is full of electrical currents, called brainwaves. There are four different types of brainwaves; beta, alpha, theta and delta.
 
-When someone is functioning in the beta brainwave state they are alert, engaged and fully focused on a task. When in the alpha brainwave state a person is in a state of active rest, they could be taking a tea break after completing a task. Whilst in the theta brainwave state the brain enters a form of hypnosis we would call daydreaming, when in this state time seems to fly by undetected. This is a creative brainwave state which can lead into a flow of ideas or what we term as ‘having a brainwave’. It is also the brainwave state of REM (rapid eye movement) sleep, which is used in hypnosis. The delta brainwave state occurs when we have drifted off into a deep and restful sleep.
+* alpha brainwave -- When in the alpha brainwave state a person is in a state of active rest, they could be taking a tea break after completing a task. 
+
+* beta brainwave -- when someone is functioning in the beta brainwave state they are alert, engaged and fully focused on a task. 
+ 
+* theta brainwave -- whilst in the theta brainwave state the brain enters a form of hypnosis we would call daydreaming, when in this state time seems to fly by undetected. This is a creative state which can lead into a flow of ideas or what we term as ‘having a brainwave’. It is also the brainwave state of REM (rapid eye movement) sleep, which is used in hypnosis.
+
+* delta brainwave -- this brainwave state occurs when we have drifted off into a deep and restful sleep.
 
 The subconscious mind is the theta brainwave state and it is the natural brainwave state for children under seven years old which is the age that our core beliefs are coded, and our map of the world is created. When entering hypnosis you experience REM-rapid eye movement. This accesses the theta brainwave state. Theta brainwaves allow you to gain access to your subconscious mind and limbic brain which is the part of our brain that supports functions like reactions, motivation and behaviour.
 
@@ -34,4 +39,6 @@ The subconscious mind is the theta brainwave state and it is the natural brainwa
 
 We cannot battle with our minds, as emotion overrides logic, and you can’t fight against your wiring. However when you understand how and why your mind operates the way it does, then you can start to work with it rather than against it.
 
-When we are vulnerable our brain responds to our vulnerability by providing protection. This protection is formed through the wiring of brain circuits. Neuroplasticity is a relatively recent discovery of how flexible our brain circuits are. Inside the brain our nerve cells send electrical signals to each other, these electrical signals or impulses form pathways. The more the brain uses these pathways the stronger the pathway becomes. Nerve cells that fire together, wire together. When a circuit fires repeatedly, it can become the default setting, automating the response. RTT enables you to access the subconscious and change unhelpful circuits to form helpful connections in your brain quickly. The amazing truth about Neuroplasticity is that thinking differently becomes a choice. With this knowledge you are no longer limited. Instead you can choose to think and believe differently irrespective of past life events. During an RTT session you will give yourself the understanding and the power to reframe your beliefs allowing yourself to let go of anything you want to release. Through accessing your subconscious mind this process happens much quicker than if you were to try to change self-limiting beliefs out of hypnosis. Psychiatrist Dr Bessel Van Der Kolk believes that our challenge is to apply the lessons of neuroplasticity to rewire our brains and reorganise our minds. We can achieve this by getting rid of unhelpful and harmful programmes that have been coded secondary to life’s traumas, and rewire the brain to create helpful, nourishing, positive programmes. RTT is a definite and rapid way of doing just this.
+When we are vulnerable our brain responds to our vulnerability by providing protection. This protection is formed through the wiring of brain circuits. Neuroplasticity is a relatively recent discovery of how flexible our brain circuits are. Inside the brain our nerve cells send electrical signals to each other, these electrical signals or impulses form pathways. The more the brain uses these pathways the stronger the pathway becomes. Nerve cells that fire together, wire together. When a circuit fires repeatedly, it can become the default setting, automating the response. RTT enables you to access the subconscious and change unhelpful circuits to form helpful connections in your brain quickly. The amazing truth about Neuroplasticity is that thinking differently becomes a choice. With this knowledge you are no longer limited. Instead you can choose to think and believe differently irrespective of past life events. During an RTT session you will give yourself the understanding and the power to reframe your beliefs allowing yourself to let go of anything you want to release. Through accessing your subconscious mind this process happens much quicker than if you were to try to change self-limiting beliefs out of hypnosis. During RTT you can choose to apply the lessons of neuroplasticity to rewire your brain and reorganise your mind in a way that is healing and helpful to you. You can achieve this by getting rid of unhelpful and harmful programmes that have been coded secondary to life’s traumas, and rewire the brain to create helpful, nourishing, positive programmes. RTT is a definite and rapid way of doing just this, with often only one session needed for a particular issue. 
+
+You can choose to be free and fulfil your true potential.

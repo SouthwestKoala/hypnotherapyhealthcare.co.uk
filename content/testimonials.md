@@ -1,6 +1,6 @@
 +++
-draft = true
-problems = ["anxiety", "pain", "ibs"]
+date = 2020-02-01T00:00:00Z
+title = "Testimonials"
 +++
 
 > Deep Relaxation is relaxing and reassuring. Dr Gibbons maintains a very 
@@ -19,3 +19,19 @@ problems = ["anxiety", "pain", "ibs"]
 > experienced Deep Relaxation the world would be a much happier, lighter place.
 >
 > -- <cite>B, Midlands</cite>
+
+> I've suffered with tinnitus and poor hearing for years, and was sceptical 
+> that Rapid Transformation Therapy could help, but it really did. Dr Gibbons
+> was reassuring throughout the session, and helped me--under hypnosis--come to
+> and understanding of why I had specifically developed tinnitus. This was 
+> really surprising, but in that moment I knew that I could choose not have
+> tinnitus any longer. The ringing has gone, and my hearing has improved 
+> markedly.
+>
+> -- <cite>M, Cornwall</cite>
+
+> Rebekah is a natural therapist, whose personal confidence with the process 
+> made me feel relaxed and confident that it would work. And it did! I am happy
+> to recommend Rebekah as an exceptional RTT therapist to all my friends.
+>
+> -- <cite>K, UK</cite>
