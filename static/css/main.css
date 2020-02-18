@@ -119,7 +119,7 @@ img.logo {
 
 q, blockquote {
     quotes: "“" "”" "‘" "’";
-    font-size: 1em;
+    font-size: 1em !important;
 }
 
 q:before {
