@@ -119,7 +119,7 @@ img.logo {
 
 img[src*="#inline"] {
     max-width: 50%;
-    padding: 2em;
+    padding: 0 25%;
 }
 
 q, blockquote {
