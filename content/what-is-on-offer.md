@@ -10,7 +10,7 @@ title = "What is on Offer?"
 * A bespoke, personal transformation recording
 * A 20-minute follow up session 21 days after the RTT session
 
-Consultations can take place face-to-face, or virtually via a secure video communication service called [Zoom](https://zoom.us "Link to Zoom.us"). I can offer a free 10-15 minute discovery call via [Zoom](https://zoom.us "Link to Zoom.us") to discuss further options if required.
+Consultations and therapy can take place face-to-face, or virtually via a secure video communication service called [Zoom](https://zoom.us "Link to Zoom.us"). I can offer a free 10-15 minute discovery call via [Zoom](https://zoom.us "Link to Zoom.us") to discuss further options if required.
 
 All of the above is priced at £250.
 
