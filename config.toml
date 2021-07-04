@@ -37,7 +37,7 @@ url = "/img/RTT_Therapist_Rounded_Logo.png"
 weight = 1
 [[menu.footer]]
 name = "Certified Hypnotherapist"
-url = "/img/RTT_CHYP_Logo.png"
+url = "/img/RTT_CLHYP_Logo.png"
 weight = 2
 [[menu.footer]]
 name = "National Council of Psychotherapists"
