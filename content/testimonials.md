@@ -40,3 +40,27 @@ title = "Testimonials"
 > I am so phenomenally grateful to Rebekah for this wonderful triple healing in one 2-hour session. Rebekah’s combined knowledge, skills and caring nature make her an excellent and highly successful RTT Therapist
 >
 > -- <cite>AM, UK<cite>
+
+<br />
+
+> I went to see Dr Rebekah Gibbons for a hypnotherapy session specifically to see if she could help me overcome my fear of water. I can swim a little(breast stroke) but always had to keep my head out of the water. Panic ensued if my head went under the water and I could never swim on my back as panic would immediately set in and I’d sink! (I took professional swimming lessons many years ago but these ended in disaster because I couldn’t overcome my deep seated fears). Dr Rebekah gave me one hypnotherapy sesssion and the following day I ventured into a swimming pool to see how I’d feel. Incredibly I found myself able to swim with my head under water and I could also swim on my back. I can’t describe how amazing this felt! Thank you Dr Rebekah.
+>
+> -- <cite>GB, Cornwall</cite>
+
+<br />
+
+> I've always been known as the strong one in my family. So I simply took on this role. However it is very tiring and frustrating. I came to Dr Rebekah with overwhelm, worry and a lack of financial confidence. 
+>
+> The session itself was amazing. Dr Rebekah really tuned into my emotions and guided me safely through the hypnosis and regression. I made some surprising and eye opening discoveries into my views on events in my life. Once I understood how they had shaped my current situation, I was able to let go of them easily. 
+> 
+> The transformation recording was totally on point. I felt Dr Rebekah understood my needs completely and I felt an instant shift in both my physical and mental state. I felt lighter and at peace with myself. Gone was the black overwhelm and lack of trust. Instead I felt free like a huge weight had been released from within. 
+> 
+> I now look forward to listening to the recording because it was so soothing, calming and connected me to my higher source, exactly what I need. I know life will be better now because I feel different. Thank you Dr Rebekah for a transformational session.
+>
+> -- <cite>JB, London</cite>
+
+<br />
+
+> I would recommend Rebekah to friends, family and strangers without any hesitation. Her style and approach perfectly suited for this kind of work; I felt like I could trust her and that she really cares about me. Her tone and inquisitive style let me open up, share, discuss and reflect. Talking with Rebekah about me and who I am, has had a profound effect on my sleep and my outlook on life.  
+>
+> -- <cite>MC, Yorkshire</cite>
