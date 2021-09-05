@@ -7,10 +7,6 @@ title = "Coming Soon"
 name = "envelope-o"
 url = "mailto:rebekah@hypnotherapyhealthcare.co.uk"
 weight = 1
-[[menu.icon]]
-name = "twitter"
-url = "https://twitter.com/gibbons_rebekah/"
-weight = 2
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -27,10 +23,6 @@ weight = 3
 name = "My Story"
 url = "/my-story"
 weight = 4
-[[menu.main]]
-name = "Testimonials"
-url = "/testimonials"
-weight = 5
 [[menu.footer]]
 name = "RTT Therapist"
 url = "/img/RTT_Therapist_Rounded_Logo.png"
