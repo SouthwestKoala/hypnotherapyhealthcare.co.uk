@@ -17,18 +17,19 @@ Before the age of 7 we have established beliefs based upon human experiences. Du
 
 RTT empowers you to rewrite these limiting beliefs. It gives you the understanding of how and why these beliefs were born, allowing you to make sense of them. RTT gives you the power to create beliefs that are helpful, relevant and purposeful for you by accessing your subconscious (your emotional) mind. RTT allows you to identify the root cause and reason for your issues rapidly allowing you to understand and then free yourself from any self-limiting belief. Often only one session is needed to provide permanent solutions. This transformation allows you to freely live life without the restrictions of a challenging perspective and help rid yourself of negative thought patterns that may have been holding you back.
 
-### What can Rapid Transformational Therapy treat?
+### Where can Rapid Transformational Therapy help?
 
-RTT can be helpful in treating the following
+RTT can be a helpful therapy for:
 
 * Anxiety
+* Lack of confidence
+* Low self-esteem
 * Depression
 * Obsessive Compulsive Disorder (OCD)
 * Post Traumatic Stress Disorder (PTSD)
 * Phobias
 * Addictions
 * Tics
-* Eating Disorders
 * Weight problems
 * Chronic Pain Syndromes
 * Fibromyalgia
@@ -39,9 +40,7 @@ RTT can be helpful in treating the following
 * Unexplained Infertility
 * Skin conditions
 * Tinnitus
-* Lack of confidence
-* Low self-esteem
 
 It is also helpful in building self-assurance, for example with public speaking, perfomance anxiety, interview skills, or exams.
 
-This list is not exhaustive and if in any doubt whether this form of therapy will be useful to yourself please do contact me. When conventional medicine hasn’t been able to help or when a non-pharmacological solution is wanted RTT has proven to be an extremely useful therapy. It is an effective treatment for many conditions as described above and the National Institute of Clinical Excellence (NICE) have recognised hypnotherapy as a treatment option for Irritable Bowel Syndrome (IBS). I personally have seen its benefits in many different illnesses and I hope to conduct further research into this.
+This list is not exhaustive and if in any doubt whether this form of therapy will be useful to yourself please do contact me. When conventional medicine hasn’t been able to help or when a non-pharmacological solution is wanted RTT can be an extremely useful therapy. It is an effective theraputic option for many conditions as described above and the National Institute of Clinical Excellence (NICE) have recognised hypnotherapy as a treatment option for Irritable Bowel Syndrome (IBS). I personally have seen its benefits in many different illnesses and I hope further research will evidence this.
