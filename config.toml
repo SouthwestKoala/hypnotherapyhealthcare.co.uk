@@ -25,19 +25,19 @@ url = "/my-story"
 weight = 4
 [[menu.footer]]
 name = "RTT Therapist"
-url = "/img/RTT_Therapist_Rounded_Logo.png"
+url = "/img/rtt_therapist_rounded_logo.png"
 weight = 1
 [[menu.footer]]
 name = "Certified Hypnotherapist"
-url = "/img/RTT_CLHYP_Logo.png"
+url = "/img/rtt_clhyp_logo.png"
 weight = 2
 [[menu.footer]]
 name = "National Council of Psychotherapists"
-url = "/img/NCP_Logo.png"
+url = "/img/ncp_logo.png"
 weight = 3
 [[menu.footer]]
 name = "Complementary & Natural Healthcare Council"
-url = "/img/CNCH_Logo.jpg"
+url = "/img/cnhc_logo.jpg"
 weight = 4
 [params]
 accent = "#00A499"
