@@ -24,12 +24,12 @@ name = "My Story"
 url = "/my-story"
 weight = 4
 [[menu.footer]]
-name = "RTT Therapist"
-url = "/img/rtt_therapist_rounded_logo.png"
+name = "Certified Hypnotherapist"
+url = "/img/clhyp_logo.png"
 weight = 1
 [[menu.footer]]
-name = "Certified Hypnotherapist"
-url = "/img/rtt_clhyp_logo.png"
+name = "EMCC Accredited Coach / Mentor"
+url = "/img/emcc-logo.png"
 weight = 2
 [[menu.footer]]
 name = "National Council of Psychotherapists"
