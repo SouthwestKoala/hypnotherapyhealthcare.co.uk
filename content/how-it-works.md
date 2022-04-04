@@ -9,7 +9,7 @@ You survive on this planet by avoiding emotional and physical pain. Your mind ac
 
 Now depending on what you have experienced before, the brain will be on high alert for anything that resembles a previous threat. For example, if at a young age your parent was fearful of spiders, and screamed running away when you encountered one, your brain would have registered that spiders were dangerous. It will have set up a fight or flight response in case you came across a spider again.
 
-Certain experiences you may not consciously remember, will have created a strong emotion. The subconscious mind will have registered them/ wired them and created a belief that you may not be fully aware of, however this may now cause you to experience panic attacks, painful emotions or anxiety when you encounter certain triggers.
+Certain experiences you may not consciously remember, will have created a strong emotion. The subconscious mind will have registered them, wiring them and creating a belief that you may not be fully aware of, however this may now cause you to experience panic attacks, painful emotions or anxiety when you encounter certain triggers.
 
 Hypnotherapy will enable you to understand why you are experiencing a fight or flight response, and you will then be able to transform any unhelpful deep subconscious beliefs.
 

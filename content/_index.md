@@ -9,7 +9,7 @@ Whatever your concerns are, whether big or small, hypnotherapy can help.
 
 My name is Rebekah; I am a medical doctor, Clinical Hypnotherapist, coach, and mentor.
 
-Hypnosis is a beautiful relaxed state where you are fully aware and in control but can access your subconscious / feeling / emotional part of your brain. This enables you to identify the root cause of any particular / self-limiting belief and then free you from this. I incorporate elements of Neuro-Linguistic Prgramming (NLP), Cognitive Behaviour Therapy (CBT), and other forms of psycotherapy during the hypnotherapy session.
+Hypnosis is a beautiful relaxed state where you are fully aware and in control but can access your subconscious (emotional) part of your brain. This enables you to identify the root cause of any particular self-limiting belief and then free you from this. I incorporate elements of Neuro-Linguistic Prgramming (NLP), Cognitive Behaviour Therapy (CBT), and other forms of psycotherapy during the hypnotherapy session.
 
 ### Beliefs are shaped by experiences
 

@@ -5,7 +5,7 @@ title = "What is on Offer?"
 
 ### What is on Offer?
 
-* A 60-minute consultation prior to the Hypnotherapy
+* A 60-minute consultation prior to the hypnotherapy session
 * A hypnotherapy session which can take up to 3 hours
 * A bespoke, personal transformation recording
 * A 30-minute follow up session 21 days after the hypnotherapy session
