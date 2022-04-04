@@ -12,7 +12,7 @@ title = "What is on Offer?"
 
 Consultations and therapy can take place face-to-face, or virtually via a secure video communication service called [Zoom](https://zoom.us "Link to Zoom.us"). I can offer a free 10-15 minute discovery call via [Zoom](https://zoom.us "Link to Zoom.us") to discuss further options if required.
 
-All of the above is priced at £500.
+All of the above is priced at £475.
 
 ### What to expect during a hypnotherapy session?
 
